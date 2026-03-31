@@ -1,4 +1,4 @@
-#  UC2 — Check Equality of Two Lines
+#  UC3 — Check which line is larger 
 
 print("Welcome to Line Comparison Computation Program")
 
@@ -21,7 +21,7 @@ y4 = float(input("Enter y4: "))
 length1=math.sqrt((x2-x1)**2+(y2-y1)**2) 
 length2=math.sqrt((x4-x3)**2+(y4-y3)**2) 
 
-#Equality check
+# Compare their length
 if length1>length2: 
     print("line1 is greater than line2")
 elif length1<length2:
