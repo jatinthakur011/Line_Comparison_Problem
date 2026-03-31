@@ -1,43 +1,26 @@
-Line Comparison Problem (Python)
+📐 **Line Comparison Problem**
+A 🐍 Python project that implements the Line Comparison Problem.
+Each Use Case (UC) is implemented in a separate 🌿 Git branch.
 
-**Description->**
+📋 **Use Cases**
+UC1 — 📏 Line Length
 
-This project implements the Line Comparison Problem using Python.
-Each Use Case (UC) is implemented in a separate Git branch.
+🌿 Branch: UC1_LineLength
+📄 File: UC1_Line.py
+📝 Description: Calculates the length of a line using given coordinates.
 
-**Use Cases**
+UC2 — ⚖️ Line Equality
 
-**UC1 — Line Length**
+🌿 Branch: UC2_LineEquality
+📄 File: UC2_Line.py
+📝 Description: Checks whether two lines are equal.
 
-Calculates the length of a line using given coordinates.
+UC3 — 🔍 Line Comparison
 
-Branch:
+🌿 Branch: UC3_LineComparison
+📄 File: UC3_Line.py
+📝 Description: Compares two line lengths and shows which is greater.
 
-**UC1_LineLength**
-File:
-UC1_Line.py
 
-**UC2 — Line Equality**
-
-Checks whether two lines are equal.
-
-Branch:
-
-UC2_LineEquality
-File:
-UC2_Line.py
-
-**UC3 — Line Comparison**
-
-Compares two line lengths and shows which is greater.
-
-Branch:
-
-UC3_LineComparison
-File:
-UC3_Line.py
-
-**Master Branch**
-
-Contains only:
-Welcome.py
+🏠 **Master Branch**
+Contains only Welcome.py — the 🚪 entry point of the project.
