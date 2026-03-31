@@ -10,6 +10,7 @@ Each Use Case (UC) is implemented in a separate Git branch.
 **UC1 — Line Length**
 
 Calculates the length of a line using given coordinates.
+
 Branch:
 
 **UC1_LineLength**
@@ -19,6 +20,7 @@ UC1_Line.py
 **UC2 — Line Equality**
 
 Checks whether two lines are equal.
+
 Branch:
 
 UC2_LineEquality
@@ -28,6 +30,7 @@ UC2_Line.py
 **UC3 — Line Comparison**
 
 Compares two line lengths and shows which is greater.
+
 Branch:
 
 UC3_LineComparison
